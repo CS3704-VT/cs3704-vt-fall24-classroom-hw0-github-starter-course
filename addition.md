@@ -10,3 +10,6 @@ This is some code I wrote
 ```
 This too
 ```
+
+
+This is some random **text** that I added _right now_.
