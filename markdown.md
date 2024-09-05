@@ -1,0 +1,1 @@
+From this course, I refreshed on a lot of topics such as pull requests and cloning. I have experience using Git in the past, so this was helpful! I hope to learn more about Git and software engineering.
