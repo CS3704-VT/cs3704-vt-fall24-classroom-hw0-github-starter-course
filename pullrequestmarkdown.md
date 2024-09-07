@@ -17,3 +17,45 @@ This pull request completes the HW0 assignment by forking the repository, making
 ## Questions
 
 - Need more practice with resolving merge conflicts.
+
+---
+
+## Markdown Features Demo
+
+### Headers
+
+# H1 Header
+## H2 Header
+### H3 Header
+
+### Text Formatting
+
+**Bold Text**  
+*Italic Text*  
+~~Strikethrough~~
+
+### Lists
+
+- Bullet point 1
+- Bullet point 2
+  - Nested point
+
+1. Numbered item 1
+2. Numbered item 2
+
+### Links
+
+[GitHub](https://github.com)
+
+### Blockquotes
+
+> This is a blockquote example.
+
+### Code Snippets
+
+Inline code: `print("Hello, world!")`
+
+```python
+# Python code block example
+def greet():
+    print("Hello, world!")
